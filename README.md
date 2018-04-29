@@ -20,7 +20,7 @@ This repository contains the following files:
 
 * README.md - explains the analysis files included in this repository
 * CodeBook.md - explains all the variables and summaries calculated, along with units, and any other relevant information
-* run_analysis.R - the R scripts used to download, extract, transform, and create the tidy data set
+* run_analysis.R - the R script file used to download, extract, transform, and create the tidy data set
 * tidy_data.txt - the tidy data set with the average of each variable for each activity and each subject
 
 ## Package Installation
